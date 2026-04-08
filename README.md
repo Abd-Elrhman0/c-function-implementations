@@ -10,6 +10,7 @@
 
 1. Array Functions
     * reverse → Reverses elements of an array
+
 2. Character Functions
     * _isalnum → Checks if character is alphanumeric
     * _isdigit → Checks if character is a digit
@@ -17,9 +18,11 @@
     * _isxdigit → Checks if character is a hexadecimal digit
     * _tolower → Converts character to lowercase
     * _toupper → Converts character to uppercase
+
 3. Memory Functions
     * _memset → Fills memory with a constant byte
     * _memcpy → Copies memory from source to destination
+
 4. String Functions
     * _strcat → Concatenates two strings
     * _strchr → Finds first occurrence of a character
